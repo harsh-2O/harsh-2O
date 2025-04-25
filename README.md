@@ -2,6 +2,9 @@
 I'm currently working on advanced web development skills.<br>I'm looking to collaborate on unique and innovative projects including technologies like Machine Learning, CNN and BlockChain.<br>I'm a third-year CSE student at the Indian Institute of Information Technology Vadodara.<br><br>
 
 
+https://portfolio-delta-one-30.vercel.app/
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.harsh._20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshMehta2318) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/HarshMehta) 
 
